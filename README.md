@@ -1,4 +1,5 @@
 # [Personal E-Portfolio]
 
+[Demo](https://naderik.github.io/)
 
-## Developed using jQuery and Bootstrap
+## A personal e-portfolio developed using jQuery and Bootstrap and served on github pages.
