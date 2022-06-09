@@ -2,4 +2,4 @@
 
 [Demo](https://naderik.github.io/)
 
-## A personal e-portfolio developed using jQuery and Bootstrap and served on github pages.
+## Personal e-portfolio developed using jQuery and Bootstrap and served on github pages.
